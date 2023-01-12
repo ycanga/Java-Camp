@@ -1,1 +1,1 @@
-(2022) Java Software Developer Training Camp - Engin Demiroğ
+(2022 Kodlama.io) Java Software Developer Training Camp - Engin Demiroğ
