@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Camp.iml" filepath="$PROJECT_DIR$/Java-Camp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Camp-Week-2/Java-Camp-Homework/classes/classes.iml" filepath="$PROJECT_DIR$/Java-Camp-Week-2/Java-Camp-Homework/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Camp-Week-2/Java-Camp-Homework/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/Java-Camp-Week-2/Java-Camp-Homework/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Camp-Week-2/Java-Camp-Homework/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/Java-Camp-Week-2/Java-Camp-Homework/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Camp-Week-2/Java-Camp-Homework/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/Java-Camp-Week-2/Java-Camp-Homework/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Camp-Week-2/java-OOP_1/java-OOP_1.iml" filepath="$PROJECT_DIR$/Java-Camp-Week-2/java-OOP_1/java-OOP_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Camp-Week-2/Java-Camp-Homework/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/Java-Camp-Week-2/Java-Camp-Homework/methodOverloading/methodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Camp-Week-2/Java-Camp-Homework/methods/methods.iml" filepath="$PROJECT_DIR$/Java-Camp-Week-2/Java-Camp-Homework/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Camp-Week-2/Java-Camp-Homework/reCampDemo_Classes/reCampDemo_Classes.iml" filepath="$PROJECT_DIR$/Java-Camp-Week-2/Java-Camp-Homework/reCampDemo_Classes/reCampDemo_Classes.iml" />
+    </modules>
+  </component>
+</project>
